@@ -1,0 +1,38 @@
+#canvasInput {
+  position: absolute;
+  visibility: hidden;
+}
+
+#canvasOutput {
+  position: absolute;
+  top: 10%;
+  left: 30%;
+  border: 1px solid black;
+}
+
+#input {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}
+
+#button {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  width: 10%;
+  height: 5%;
+}
+
+#containerStatus {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+}
+
+#download {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  visibility: hidden;
+}/*# sourceMappingURL=style.css.map */
